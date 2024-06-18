@@ -2,8 +2,14 @@
 ewqe
 sadsada
 
+<<<<<<< HEAD
 fgfghfhfh
 
 
 d
 sdsd
+=======
+\
+dsadsa
+fgfghfhfh
+>>>>>>> ai
